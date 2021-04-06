@@ -1,0 +1,6 @@
+---
+# defaults file for mysql
+#
+wp_mysql_db: wordpress-bd-jm.cawk6atl3zuf.us-east-1.rds.amazonaws.com
+wp_mysql_user: admin
+wp_mysql_password: melo2468
